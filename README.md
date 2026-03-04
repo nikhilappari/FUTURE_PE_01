@@ -1,4 +1,5 @@
 AI Website Copy Generator – GlowNest Salon
+
 📌 Objective
 
 To design a structured prompt system that generates complete website copy for a local business using AI tools.
@@ -56,5 +57,6 @@ Importance of structured prompts
 How tone influences content
 
 How AI can be guided using constraints
+
 
 Conversion-focused writing using AI
